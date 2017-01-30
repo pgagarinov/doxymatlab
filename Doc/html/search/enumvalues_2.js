@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['secondevent',['SecondEvent',['../classclass_documentation_example.html#a7dc3cbfe699268a7cca9ae9c8f9544b9adc054405d657bf15ceb8e94cb185dfe4',1,'classDocumentationExample']]]
+  ['secondevent',['SecondEvent',['../classanonymous__namespace_02class_documentation_example_8m_03_1_1class_documentation_example.html#afdff98a8381a047aa159bc937ebcb72aa2e655e1e86c35c3a1702d7a7a358823f',1,'anonymous_namespace{classDocumentationExample.m}::classDocumentationExample']]]
 ];

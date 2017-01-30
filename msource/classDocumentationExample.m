@@ -106,11 +106,26 @@ classdef  (InferiorClasses = {?class1,?class2}) classDocumentationExample
     % ======================================================================
     %> @brief Brief description of the exampleStaticProtectedMethod method
     %>
-    %> This method is static and protected
-    %> @param param1 Description of the parameter
-    %> @retval out return value of this method
-    % ======================================================================
-    function out = exampleStaticProtectedMethod(param1)
+	%> \fn [out1,out2] = exampleStaticProtectedMethod(param1)	
+    %> This method is static and protected 
+	%> - regular: 
+	%
+	%> 	@param param1 \parblock Description of the parameter <br> more description. \end parblock
+	%>  @param param2 Description of the parameter
+	%>
+	%> - properties:
+	%> 	@param param3 \parblock Description <br>  of the parameter
+	%> alpha beta gamma 
+	%> \endparblock
+	%>  @param param4 Description of the parameter
+    %>
+    %> @retval out1	
+	%> - return value of this method 
+	%>    - alpha
+	%> 
+	%> @retval out2	return value \par of this method\endverbatim
+	% ======================================================================
+    function [out1,out2] = exampleStaticProtectedMethod(param1)
     end
   end
   methods (Access=public, Static = true)

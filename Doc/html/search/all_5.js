@@ -1,6 +1,4 @@
 var searchData=
 [
-  ['pivateproperty',['pivateProperty',['../classclass_documentation_example.html#a729ef0bddf414de3426d960cb77323d0',1,'classDocumentationExample']]],
-  ['protectedproperty',['protectedProperty',['../classclass_documentation_example.html#ae1318c009ee9d5de202dc9007575eae0',1,'classDocumentationExample']]],
-  ['publicproperty',['publicProperty',['../classclass_documentation_example.html#aa65636dd1dcc74a293a897d949e4bc8c',1,'classDocumentationExample']]]
+  ['one',['one',['../classanonymous__namespace_02class_documentation_example_8m_03_1_1class_documentation_example.html#a4514aefe08af7f62e1c71a1b08319db9a8daa72a5c49961a93196347c473cd94d',1,'anonymous_namespace{classDocumentationExample.m}::classDocumentationExample']]]
 ];

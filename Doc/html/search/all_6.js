@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['second_5fproperty',['second_property',['../classclass_documentation_example.html#a72f28f996574c2d17d1ae273b51bb961',1,'classDocumentationExample']]],
-  ['secondevent',['SecondEvent',['../classclass_documentation_example.html#a7dc3cbfe699268a7cca9ae9c8f9544b9adc054405d657bf15ceb8e94cb185dfe4',1,'classDocumentationExample']]]
+  ['pivateproperty',['pivateProperty',['../classanonymous__namespace_02class_documentation_example_8m_03_1_1class_documentation_example.html#aa31a121bfe3475fba9f38c5a46cfebae',1,'anonymous_namespace{classDocumentationExample.m}::classDocumentationExample']]],
+  ['protectedproperty',['protectedProperty',['../classanonymous__namespace_02class_documentation_example_8m_03_1_1class_documentation_example.html#ac81d28ea5b8076587e092285788f6bbd',1,'anonymous_namespace{classDocumentationExample.m}::classDocumentationExample']]],
+  ['publicproperty',['publicProperty',['../classanonymous__namespace_02class_documentation_example_8m_03_1_1class_documentation_example.html#a6efa976d4fd7108e60aaf1db76d708e8',1,'anonymous_namespace{classDocumentationExample.m}::classDocumentationExample']]]
 ];
